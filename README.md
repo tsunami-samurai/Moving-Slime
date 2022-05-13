@@ -8,9 +8,9 @@ The project shows the possibilities of using Javascript in interesting projects!
 You need to wait a couple of seconds for the animation to start. if you download all files and ensure they're located in the same directory as each other and have the same file structure (i.e. images folder with separately stored images.) Alternately, you can see it in action here.
 
 ***Built with***    
--HTML
--CSS
--JavaScript
+-HTML  
+-CSS  
+-JavaScript  
 
 
 ***Legal Disclaimer***    
